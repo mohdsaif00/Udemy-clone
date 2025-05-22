@@ -43,7 +43,7 @@ nav input {
     padding: 0px 12px;
     text-decoration: none;
     color: black;
-    margin-left: 5px;
+    margin: 0px 5px;
 }
 
 .search a:hover {
